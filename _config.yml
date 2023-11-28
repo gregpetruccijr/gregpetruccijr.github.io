@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Greg J Petrucci Jr. Personal Webpage
 
 # Your name to show in the footer
-author: Some Person
+author: Greg J Petrucci Jr.
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/UMassProPic (4).png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,21 +50,22 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  work email: "gpetrucci@umass.edu"
+  personal email: "gregorypetrucci@gmail.co,"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: gregpetruccijr
+  twitter: @GregJPetrucciJr
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: Greg J Petrucci Jr.
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+  instagram: i_picthetruch
+  spotify: Greg Petrucci Radio
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -73,8 +74,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0001-8808-2159
+  google-scholar: Greg J Petrucci Jr
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -91,7 +92,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
