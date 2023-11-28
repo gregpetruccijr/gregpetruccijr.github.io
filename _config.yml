@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: assets/img/Medium_PMS202_Black3_RGB.png
 
 
 #####################################
@@ -56,9 +56,9 @@ social-network-links:
 #  facebook: deanattali
   github: gregpetruccijr
   twitter: GregJPetrucciJr
-  linkedin: www.linkedin.com/in/greg-j-petrucci-jr
+  linkedin: 
   instagram: i_picthetruch
-  spotify: https://open.spotify.com/user/1286606072?si=70cc2a0389914ce3
+  spotify: 
   ORCID: 0000-0001-8808-2159
   google-scholar: Greg J Petrucci Jr
 
