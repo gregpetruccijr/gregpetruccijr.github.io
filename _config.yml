@@ -51,14 +51,14 @@ title-img: assets/img/Medium_PMS202_Black3_RGB.png
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   work email: "gpetrucci@umass.edu"
-  personal email: "gregorypetrucci@gmail.co,"
+  personal email: "gregorypetrucci@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: gregpetruccijr
   twitter: GregJPetrucciJr
-  linkedin: 
+  linkedin: greg-j-petrucci-jr
   instagram: i_picthetruch
-  spotify: 
+  spotify: 1286606072?si=30477cd6f790426c
   ORCID: 0000-0001-8808-2159
   google-scholar: Greg J Petrucci Jr
 
@@ -83,7 +83,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://gregpetruccijr.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -106,7 +106,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Greg J Petrucci,Greg Petrucci,UMass,University of Massachusetts,Amhert,accelerometer,measurement"
+keywords: "Greg J Petrucci,Greg Petrucci,UMass,University of Massachusetts,Amherst,accelerometer,measurement"
 
 ######################################
 # --- Colours / background image --- #
@@ -114,8 +114,8 @@ keywords: "Greg J Petrucci,Greg Petrucci,UMass,University of Massachusetts,Amher
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#881c1c"
+navbar-text-col: "#212721"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
