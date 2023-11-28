@@ -20,7 +20,7 @@ author: Greg J Petrucci Jr.
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About Greg"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -53,37 +53,19 @@ social-network-links:
   work email: "gpetrucci@umass.edu"
   personal email: "gregorypetrucci@gmail.co,"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  facebook: deanattali
   github: gregpetruccijr
   twitter: @GregJPetrucciJr
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
   linkedin: Greg J Petrucci Jr.
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
   instagram: i_picthetruch
   spotify: Greg Petrucci Radio
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
   ORCID: 0000-0001-8808-2159
   google-scholar: Greg J Petrucci Jr
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is working....
 
 ###########################
 # --- General options --- #
@@ -92,9 +74,12 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
   linkedin: true
-  vk: false
+  github: true
+  instagram: true
+  spotify: true
+  ORCID: true
+  google-scholar: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
