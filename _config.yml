@@ -114,9 +114,11 @@ keywords: "Greg J Petrucci,Greg Petrucci,UMass,University of Massachusetts,Amher
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-
+#UMass style guide: https://www.umass.edu/brand/elements/color
+  # Maroon Hex 881c1c
+  # Black Hex 212721
 navbar-col: "#505759" # gray
-navbar-text-col: "#212721" #PMS Black 3 from UMass style guide: https://www.umass.edu/brand/elements/color
+navbar-text-col: "#212721" 
 navbar-border-col: "#881c1c" # UMass maroon
 page-col: "#FFFFFF" # white
 text-col: "#212721"
