@@ -1,7 +1,9 @@
 ---
 layout: home
 title: Greg J Petrucci Jr.
-subtitle: This is is where I put stuff about my professional life... right?
+subtitle: Personal Website
+  share-title: Greg J Petrucci Jr.'s Personal Website
+  share-description: Greg J Petrucci Jr., PhD Student @ UMass
 ---
 
 
