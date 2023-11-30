@@ -20,7 +20,9 @@ author: Greg J Petrucci Jr.
 ###############################################
 
 navbar-links:
-  About Me: "About Greg"
+  About Me: 
+    -CV: "/assets/PetrucciJr_CV_11_10_23 (1).pdf"
+  
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
