@@ -25,6 +25,9 @@ navbar-links:
   Resources:
     - Compendium of Physical Activities: "https://sites.google.com/site/compendiumofphysicalactivities/home"
     - The Observer XT: "https://www.noldus.com/observer-xt"
+    - ISMPB: 'https://ismpb.org/
+    - NEACSM: 'https://www.neacsm.org/'
+    - ResearchGate: 'https://www.researchgate.net/profile/Greg-Petrucci-Jr-2'
  
 
 ################
@@ -51,8 +54,7 @@ title-img: assets/img/Medium_PMS202_Black3_RGB.png
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  work email: "gpetrucci@umass.edu"
-  personal email: "gregorypetrucci@gmail.com"
+  email: "gpetrucci@umass.edu"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: gregpetruccijr
@@ -81,6 +83,7 @@ share-links-active:
   spotify: true
   ORCID: true
   google-scholar: true
+  email: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
