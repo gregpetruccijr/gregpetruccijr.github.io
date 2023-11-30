@@ -1,3 +1,11 @@
+
+# Add bookmark image?
+# Add home button? or put home text under the UMass M
+# Add some old posters or stuff from MOCA 5-8 page and make the home dir look better
+
+
+
+
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
