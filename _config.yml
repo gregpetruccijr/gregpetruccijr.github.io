@@ -20,8 +20,9 @@ author: Greg J Petrucci Jr.
 ###############################################
 
 navbar-links:
-  About me: "aboutme"
-  CV: "/assets/PetrucciJr_CV_11_10_23 (1).pdf"
+  Home: "https://gregpetrucci.com"
+  Publications: "pubs"
+  CV: "/assets/PetrucciJr_CV_11-30-23.pdf" 
   Resources:
     - Compendium of Physical Activities: "https://sites.google.com/site/compendiumofphysicalactivities/home"
     - The Observer XT: "https://www.noldus.com/observer-xt"
