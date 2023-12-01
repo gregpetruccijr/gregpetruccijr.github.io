@@ -90,6 +90,6 @@ subtitle:
 
 15. Cox, M.F., **Petrucci Jr, G.J.**,  Masteller, B.R. & Sirard, J.R. (2017). The development and testing of a direct observation protocol for children's free-living activity. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Oct 2017. Providence, RI.
 
-16. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2017). Sensitivity of misfit shine\textsuperscript{TM} to detect changes in physical activity. *UMass Medical mHealth and Social Media Conference*. May 2017. Worcester, MA.
+16. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2017). Sensitivity of misfit shine to detect changes in physical activity. *UMass Medical mHealth and Social Media Conference*. May 2017. Worcester, MA.
 
-17. **Petrucci Jr, G.J.**, Hickey, A., Mendoza, A. & Freedson, P.S. (2016). Validation of the cybex arctrainer\textsuperscript{TM} for prediction of energy expenditure. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Oct 2016. Providence, RI.
+17. **Petrucci Jr, G.J.**, Hickey, A., Mendoza, A. & Freedson, P.S. (2016). Validation of the cybex arctrainer for prediction of energy expenditure. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Oct 2016. Providence, RI.
