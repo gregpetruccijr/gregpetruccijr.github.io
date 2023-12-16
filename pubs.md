@@ -86,7 +86,7 @@ subtitle:
 
 13. Cox, M.F., **Petrucci Jr, G.J.**,  Masteller, B.R. & Sirard, J.R. (2018). The development and testing of a direct observation protocol for children's free-living activity. *School of Public Health and Health Sciences Research Day*. Apr 2018. Amherst, MA.
 
-14. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2017). Sensitivity of misfit shine\textsuperscript{TM} to detect changes in laboratory and free-living physical activity. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Oct 2017. Providence, RI.
+14. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2017). Sensitivity of misfit shineTM to detect changes in laboratory and free-living physical activity. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Oct 2017. Providence, RI.
 
 15. Cox, M.F., **Petrucci Jr, G.J.**,  Masteller, B.R. & Sirard, J.R. (2017). The development and testing of a direct observation protocol for children's free-living activity. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Oct 2017. Providence, RI.
 
