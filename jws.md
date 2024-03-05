@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Stuff for John
+title: Stuff for John Staudenmayer
 subtitle: 
 ---
 
-[Mac +Windows Mapping Instructions for John Sirard](Mac +Windows Mapping Instructions for John Sirard.pdf)
+
 
 # Table of Contents
 1. [Connect to server](#server)
@@ -14,6 +14,7 @@ subtitle:
 
 
 ## Connect to server
+[PDF file: SPHHS IT NAS server mapping instructions- Windows and MacOS](Mac +Windows Mapping Instructions for John Sirard.pdf)
 
 ### NAS server IP address: 
 #### Windows: X: \\\\128\\119.66.13\\MOCA
