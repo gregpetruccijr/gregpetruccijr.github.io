@@ -16,7 +16,7 @@ subtitle:
 5. **Petrucci Jr, G.J.**, Masteller, B.R., Cox, M.F., Staudenmayer, J., Freedson, P.S. & Sirard, J.R. (2018). [Sensitivity of the Misfit Shine™ to Detect Changes in Laboratory-Based and Free-Living Physical Activity](https://journals.humankinetics.com/view/journals/jmpb/1/1/article-p18.xml). *Journal for the Measurement of Physical Behaviour, 1*(1), 18-25.
 
 # Book Chapters:
-1. Sirard, J.R. & **Petrucci Jr, G.J.** (2019). [Assessment of Physical Activity and Sedentary Behaviors](https://www.google.com/books/edition/Physical_Activity_and_Public_Health_Prac/u15uDwAAQBAJ?hl=en&gbpv=1&dq=greg%20petrucci&pg=PA21&printsec=frontcover). In: *Physical Activity and Public Health Practice: A Guide for Effective Interventions*. Springer Publishing Company, New York, NY.
+1. Sirard, J.R. & **Petrucci Jr, G.J.** (2019). [Measurement of Physical Activity and Sedentary Behaviors](https://www.google.com/books/edition/Physical_Activity_and_Public_Health_Prac/u15uDwAAQBAJ?hl=en&gbpv=1&dq=greg%20petrucci&pg=PA21&printsec=frontcover). In: *Physical Activity and Public Health Practice: A Guide for Effective Interventions*. Springer Publishing Company, New York, NY.
 
   <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=u15uDwAAQBAJ&newbks=0&lpg=PA21&dq=greg%20petrucci&pg=PA21&output=embed" width=500 height=500></iframe>
 
