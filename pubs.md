@@ -21,7 +21,7 @@ subtitle:
     ### Google Books Preview || Measurement of Physical Activity and Sedentary Behaviors 
     <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?    id=u15uDwAAQBAJ&newbks=0&lpg=PA21&dq=greg%20petrucci&pg=PA21&output=embed" width=500 height=500></iframe>
 
-# Conference proceedings with published abstracts:
+# Conference Proceedings with Published Abstracts:
 1. Chase, J.D., **Petrucci Jr, G.J.** & Sirard, J.R. (2024). Does sleep restriction impact subsequent day free-living physical behavior patterns among healthy young adults? *American College of Sports Medicine Annual Meeting*. Jun 2024. Boston, MA.
 
 2. **Petrucci Jr, G.J.**, Shook, R.P. & Sirard, J.R. (2023). Estimating energy expenditure in free-living adolescents: How many days are enough? *American College of Sports Medicine Annual Meeting*. Jun 2023. Denver, CO.
