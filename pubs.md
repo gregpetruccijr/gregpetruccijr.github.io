@@ -18,6 +18,8 @@ subtitle:
 # Book Chapters:
 1. Sirard, J.R. & **Petrucci Jr, G.J.** (2019). [Assessment of Physical Activity and Sedentary Behaviors](https://www.springerpub.com/physical-activity-and-public-health-practice-9780826134585.html). In: *Physical Activity and Public Health Practice: A Guide for Effective Interventions*. Springer Publishing Company, New York, NY.
 
+  <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=u15uDwAAQBAJ&newbks=0&lpg=PA21&dq=greg%20petrucci&pg=PA21&output=embed" width=300 height=300></iframe>
+
 # Conference proceedings with published abstracts:
 1. Chase, J.D., **Petrucci Jr, G.J.** & Sirard, J.R. (2024). Does sleep restriction impact subsequent day free-living physical behavior patterns among healthy young adults? *American College of Sports Medicine Annual Meeting*. Jun 2024. Boston, MA.
 
