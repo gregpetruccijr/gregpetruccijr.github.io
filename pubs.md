@@ -11,14 +11,14 @@ subtitle:
 
 3. Marcotte, R.T., **Petrucci Jr, G.J.**, Cox, M.F., Freedson, P.S., Staudenmayer, J. & Sirard, J.R. (2019). [Estimating Sedentary Time from a Hip- and Wrist-Worn Accelerometer](https://pubmed.ncbi.nlm.nih.gov/31343523/). *Med Sci Sports Exerc., 52*(1), 225-232.
 
-4. Cox, M.F., **Petrucci Jr, G.J.**, Marcotte, R.T., Masteller, B.R., Staudenmayer, J., Freedson, P.S. & Sirard, J.R. (2020).} [A Novel Video-Based Direct Observation System for Assessing Physical Activity and Sedentary Behavior in Children and Young Adults](https://journals.humankinetics.com/view/journals/jmpb/3/1/article-p50.xml). Journal for the Measurement of Physical Behaviour, 3(1), 50-57.
+4. Cox, M.F., **Petrucci Jr, G.J.**, Marcotte, R.T., Masteller, B.R., Staudenmayer, J., Freedson, P.S. & Sirard, J.R. (2020). [A Novel Video-Based Direct Observation System for Assessing Physical Activity and Sedentary Behavior in Children and Young Adults](https://journals.humankinetics.com/view/journals/jmpb/3/1/article-p50.xml). Journal for the Measurement of Physical Behaviour, 3(1), 50-57.
 
 5. **Petrucci Jr, G.J.**, Masteller, B.R., Cox, M.F., Staudenmayer, J., Freedson, P.S. & Sirard, J.R. (2018). [Sensitivity of the Misfit Shine™ to Detect Changes in Laboratory-Based and Free-Living Physical Activity](https://journals.humankinetics.com/view/journals/jmpb/1/1/article-p18.xml). *Journal for the Measurement of Physical Behaviour, 1*(1), 18-25.
 
 # Book Chapters:
 1. Sirard, J.R. & **Petrucci Jr, G.J.** (2019). [Measurement of Physical Activity and Sedentary Behaviors](https://www.google.com/books/edition/Physical_Activity_and_Public_Health_Prac/u15uDwAAQBAJ?hl=en&gbpv=1&dq=greg%20petrucci&pg=PA21&printsec=frontcover). In: *Physical Activity and Public Health Practice: A Guide for Effective Interventions*. Springer Publishing Company, New York, NY.
 
-    # Google Books Preview- Measurement of Physical Activity and Sedentary Behaviors
+# Google Books Preview- Measurement of Physical Activity and Sedentary Behaviors
 <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=u15uDwAAQBAJ&newbks=0&lpg=PA21&dq=greg%20petrucci&pg=PA21&output=embed" width=500 height=500></iframe>
 
 # Conference Proceedings with Published Abstracts:
@@ -58,7 +58,7 @@ subtitle:
 
 18. Cox, M.F., Slate-Romano, J., Vercollone, H., Jacobson, D., **Petrucci Jr, G.J.**, Masteller, B.R. & Sirard, J.R. (2017). Testing a novel direct observation method for children's free play activity *American College of Sports Medicine Annual Meeting*. Jun 2017. Denver, CO.
 
-19. **Petrucci Jr, G.J.**, Hickey, A., Mendoza, A. & Freedson, P.S. (2016). Validation of the cybex arctrainer\textsuperscript{TM} for prediction of energy expenditure. *American College of Sports Medicine Annual Meeting*. Jun 2016. Boston, MA.
+19. **Petrucci Jr, G.J.**, Hickey, A., Mendoza, A. & Freedson, P.S. (2016). Validation of the cybex arctrainer\^{TM} for prediction of energy expenditure. *American College of Sports Medicine Annual Meeting*. Jun 2016. Boston, MA.
 
 
 # Other conference presentations & publications:
@@ -75,9 +75,9 @@ subtitle:
 
 6. Marcotte, R.T., **Petrucci Jr, G.J.**, Cox, M.F., Freedson, P.S., Staudenmayer, J. & Sirard, J.R. (2018). An evaluation of actigraph hip and wrist methods to estimate sedentary behavior under free-living conditions. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Oct 2018. Providence, RI.
 
-7. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2018). Sensitivity of misfit shine\textsuperscript{TM} to detect changes in lab-based and free-living activity settings. *UConn mHealth and Social Media Conference*. May 2018. Storrs, CT.
+7. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2018). Sensitivity of misfit shine\^{TM} to detect changes in lab-based and free-living activity settings. *UConn mHealth and Social Media Conference*. May 2018. Storrs, CT.
 
-8. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2018). Sensitivity of misfit shine\textsuperscript{TM} to detect changes in lab-based and free-living activity settings. *Industry Advisory Board Meeting for the Center for Personalized Health Monitoring*. May 2018. Amherst, MA.
+8. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2018). Sensitivity of misfit shine\^{TM} to detect changes in lab-based and free-living activity settings. *Industry Advisory Board Meeting for the Center for Personalized Health Monitoring*. May 2018. Amherst, MA.
 
 9. **Petrucci Jr, G.J.**, Marcotte, R.T., Cox, M.F., Freedson, P.S., Staudenmayer, J. & Sirard, J.R. (2018). Investigation of machine learning methods to estimate sedentary behavior in free-living environments from an accelerometer. *New England Statistics Symposium*. Apr. 2018. Amherst, MA.
 
