@@ -12,7 +12,7 @@ I am a PhD. student at the University of Massachusetts in the [Department of Kin
 <iframe style="border: 1; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/gpetrucci/social-links-42350973/embed"></iframe>
 
 # YouTube Videos
-[![SPHHS Fall Celebration 2017: Greg Petrucci](https://img.youtube.com/vi/0TDji8iK6iw?si=7cGVXti_HNqVPIri/default.jpg)](https://youtu.be/0TDji8iK6iw?si=7cGVXti_HNqVPIri)
+[![SPHHS Fall Celebration 2017: Greg Petrucci](https://img.youtube.com/vi//0TDji8iK6iw?si=fAUFBsFKozFMezly/default.jpg)](https://youtu.be/0TDji8iK6iw?si=fAUFBsFKozFMezly)
 
 [![Kinesiology at the School of Public Health and Health Sciences, UMass Amherst](https://img.youtube.com/vi/O1NxXq7pszA?si=CTQYDhgCvJYY6j4H/default.jpg)](https://youtu.be/O1NxXq7pszA?si=CTQYDhgCvJYY6j4H)
 
