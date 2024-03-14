@@ -32,9 +32,7 @@ Why can't someone (e.g., intervention scientist, epidemiologist, fill in the bla
 ##### Short answer: 
 It would take forever.
 ##### Picture answer: 
-![](assets/img/old-woman-who-lived-shoe-1937-colour-litho-22638372.jpg)
-![](assets/img/rec_book.png)
-![](assets/img/nanas_reciepe.jpg)
+<img src="https://live.staticflickr.com/2798/4457365506_9def8ecacf_k.jpg" width="200" height="200" />
 
 ##### Science answer:
 In 2022 [Pffeiffer et al][1]., published a scoping review in _Physiol Meas, 43_(09) summarizing the (in)accessibility of novel acceleormeter data processing methods to estimate physical activity or energy expenditure. Here are the results they report in their abstract:
@@ -54,6 +52,7 @@ In the same issue of _Physiol Meas_ (_43_(09)), Kimberly Clevenger et al. publis
 
 <p>&nbsp;</p>
 
+---
 
 ### RainDrop.io- Links to other socials I use often
 <iframe style="border: 1; width: 80%; height: 350px;" allowfullscreen frameborder="0" src="https://raindrop.io/gpetrucci/social-links-42350973/embed"></iframe>
@@ -61,6 +60,8 @@ In the same issue of _Physiol Meas_ (_43_(09)), Kimberly Clevenger et al. publis
 <p>&nbsp;</p>
 
 ---
+
+<p>&nbsp;</p>
 
 ######  This website was built with [Beauitful Jekyll](https://beautifuljekyll.com). Check it out and build your website in no time.
  * Thanks to [Dean Attali][dean] for making the template.
