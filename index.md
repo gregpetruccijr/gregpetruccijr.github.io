@@ -9,12 +9,8 @@ subtitle: PhD. student in Kinesiology
 
 <iframe width="360" height="360" src="https://www.youtube-nocookie.com/embed/atUUjSLMSiM?si=qPJYWE2ENlFnO8ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p>&nbsp;</p>
-
 ## Greetings! I am Greg Petrucci! I come in peace!
 So yeah, I don't get alot of visitors here. But welcome to my personal (_work?_) website. 
-
-<p>&nbsp;</p>
 
 Add a clean table of contents? But for now...
 ####  Contents of this website
@@ -24,16 +20,15 @@ Add a clean table of contents? But for now...
     * Blog page
     * Code for methods?
     * Other fun stuff
-
-<p>&nbsp;</p>
-
-Other than being a Toy Story suoperfan, I'm a PhD. student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My advisor is [John R. Sirard, PhD.](https://blogs.umass.edu/pahl/about-us/bios/john-sirard/). I also work closely with [John Staudenmayer](https://www.umass.edu/mathematics-statistics/directory/faculty/john-staudenmayer). My research expertise is in the area of using accelerometers to estimate aspects of physical behaviors (e.g., physical activity, sedentary behavior and sleep). To that end, I've worked extensively on projects aimed at calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details). 
-Add a fun picture collage of all my fav UMass KIN people?
-Recently I've been keen on making accelerometer data processing methods (i.e., existing and new, simple cut-points and complex machine learning techniques, etc.) easily accessible for use in intervention and cohort studies. 
+Other than being a Toy Story suoperfan, I'm a PhD. student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My advisor is [John R. Sirard, PhD.](https://blogs.umass.edu/pahl/about-us/bios/john-sirard/). I also work closely with [John Staudenmayer](https://www.umass.edu/mathematics-statistics/directory/faculty/john-staudenmayer). My research expertise is in the area of using accelerometers to estimate aspects of physical behaviors (e.g., physical activity, sedentary behavior and sleep). To that end, I've worked extensively on projects aimed at calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details).  
+Add a fun picture collage of all my fav UMass KIN people?  Recently I've been keen on making accelerometer data processing methods (i.e., existing and new, simple cut-points and complex machine learning techniques, etc.) easily accessible for use in intervention and cohort studies. 
 ### Why do the methods _have_ to be accessible?
-* Greg,  Why can't someone (e.g., intervention scientist, epidemiologist, fill in the blank with your favorite field, my mother, etc.) just find the orignal paper where _some reseachers_ came up with _some method_ to process the data, and follow that reciepe? 
+* Greg,  why can't someone (e.g., intervention scientist, epidemiologist, fill in the blank with your favorite field, my mother, etc.) just find the orignal paper where _some reseachers_ came up with _some method_ to process the data, and follow that reciepe? 
 #### Short answer: 
 It would take forever.
+![][old-woman-who-lived-shoe-1937-colour-litho-22638372.jpg]
+![][reciepe book.png]
+![][nanas reciepe.jpg]
 #### Science answer:
 In 2022 [Pffeiffer et al][1]., published a scoping review in _Physiol Meas, 43_(09) summarizing the (in)accessibility of novel acceleormeter data processing methods to estimate physical activity or energy expenditure. Here are the results they report in their abstract:
 > *Main Results*:
@@ -41,16 +36,14 @@ In 2022 [Pffeiffer et al][1]., published a scoping review in _Physiol Meas, 43_(
 > Model use ranged from 0 to 27 uses/year (average 0.83) with 101 models that have never been used.
 > Approximately half of uses occurred in a free-living setting (52%) and/or by other authors (56%).
 > Over half of included articles (n = 107) did not provide complete access to their model.
-> Sixty-one articles provided access to their method by including equations, coefficients, cut-points, or decision trees in the paper (n = 48) and/or by providing access to code (n = 13).
-
+> Sixty-one articles provided access to their method by including equations, coefficients, cut-points, or decision trees in the paper (n = 48) and/or by providing access to code (n = 13).  
   * #### What's being done to fix this problem?
-In the same issue of _Physiol Meas_ (_43_(09)), Kimberly Clevenger et al. published a [note][2] that includes a very helpful [Accelerometer Repository](https://sites.google.com/view/accelerometerrepository/home?authuser=0), framework and method reporting guidelines  for estimating physical activity or energy expenditure from accelerometer data. This should (_hopefully_) make it easier to find and use the good methods we have worked hard to devlop.    
+In the same issue of _Physiol Meas_ (_43_(09)), Kimberly Clevenger et al. published a [note][2] that includes a very helpful [Accelerometer Repository](https://sites.google.com/view/accelerometerrepository/home?authuser=0), framework and method reporting guidelines  for estimating physical activity or energy expenditure from accelerometer data. This should (_hopefully_) make it easier to find and use the good methods we have worked hard to devlop.  
 
-[1]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89ca      
+[1]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89ca   
 [2]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89c9
 
 <p>&nbsp;</p>
-
 #### RainDrop.io- Links to other socials I use often
 <iframe style="border: 1; width: 80%; height: 350px;" allowfullscreen frameborder="0" src="https://raindrop.io/gpetrucci/social-links-42350973/embed"></iframe>
 
