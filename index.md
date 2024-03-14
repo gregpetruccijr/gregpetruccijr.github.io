@@ -34,7 +34,7 @@ It would take forever.
 ##### Picture answer: 
 ![](assets/img/old-woman-who-lived-shoe-1937-colour-litho-22638372.jpg)
 ![](assets/img/rec_book.png)
-![](nanas_reciepe.jpg)
+![](assets/img/nanas_reciepe.jpg)
 
 ##### Science answer:
 In 2022 [Pffeiffer et al][1]., published a scoping review in _Physiol Meas, 43_(09) summarizing the (in)accessibility of novel acceleormeter data processing methods to estimate physical activity or energy expenditure. Here are the results they report in their abstract:
