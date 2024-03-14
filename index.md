@@ -7,7 +7,7 @@ subtitle: PhD. student in Kinesiology
 > From the outside!
 > Oo-o-o-o-o-o...
 
-<iframe width="360" height="360" src="https://www.youtube-nocookie.com/embed/atUUjSLMSiM?si=qPJYWE2ENlFnO8ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="460" height="330" src="https://www.youtube-nocookie.com/embed/atUUjSLMSiM?si=qPJYWE2ENlFnO8ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Greetings! 
 So yeah, I don't get alot of visitors here. But welcome to my personal (_work?_) website. 
