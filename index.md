@@ -9,11 +9,10 @@ subtitle: PhD. student in Kinesiology
 
 <iframe width="360" height="360" src="https://www.youtube-nocookie.com/embed/atUUjSLMSiM?si=qPJYWE2ENlFnO8ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Greetings! I am Greg Petrucci! I come in peace!
+# Greetings! 
 So yeah, I don't get alot of visitors here. But welcome to my personal (_work?_) website. 
 
-Add a clean table of contents? But for now...
-####  Contents of this website
+###  Add a clean table of contents? But for now...
 1. You can download a _.pdf_ copy of [my CV](PetrucciJr_CV_11_30_23.pdf).
 2. The [Publications page](pubs.md) has direct links to refereed publications.
   * _Coming soon_ :
@@ -21,28 +20,26 @@ Add a clean table of contents? But for now...
      * Code for methods?
      * Other fun stuff?
 
+## I am Greg Petrucci! I come in peace!
 Other than being a Toy Story suoperfan, I'm a PhD. student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My advisor is [John R. Sirard, PhD.](https://blogs.umass.edu/pahl/about-us/bios/john-sirard/). I also work closely with [John Staudenmayer](https://www.umass.edu/mathematics-statistics/directory/faculty/john-staudenmayer). My research expertise is in the area of using accelerometers to estimate aspects of physical behaviors (e.g., physical activity, sedentary behavior and sleep). To that end, I've worked extensively on projects aimed at calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details).
 
-Add a fun picture collage of all my fav UMass KIN people?
-
+### Add a fun picture collage of all my fav UMass KIN people?
 Recently I've been keen on making accelerometer data processing methods (i.e., existing and new, simple cut-points and complex machine learning techniques, etc.) easily accessible for use in intervention and cohort studies.
 
-### Why do the methods _have_ to be accessible?
-
+#### Why do the methods _have_ to be accessible?
 Why can't someone (e.g., intervention scientist, epidemiologist, fill in the blank with your favorite field, my mother, etc.) just find the orignal paper where _some reseachers_ came up with _some method_ to process the data, and follow that reciepe? 
 
-#### Short answer: 
+##### Short answer: 
 It would take forever.
-#### Picture answer: 
+##### Picture answer: 
+![](assets/img/old-woman-who-lived-shoe-1937-colour-litho-22638372.jpg)
+![](assets/img/rec_book.png)
+![](nanas_reciepe.jpg)
 
-![][old-woman-who-lived-shoe-1937-colour-litho-22638372.jpg]
-![][reciepe book.png]
-![][nanas reciepe.jpg]
-
-#### Science answer:
+##### Science answer:
 In 2022 [Pffeiffer et al][1]., published a scoping review in _Physiol Meas, 43_(09) summarizing the (in)accessibility of novel acceleormeter data processing methods to estimate physical activity or energy expenditure. Here are the results they report in their abstract:
 
-> *Main Results*:
+> Main Results:
 > Studies (N = 168) included adults (n = 143), and/or children (n = 38).
 > Model use ranged from 0 to 27 uses/year (average 0.83) with 101 models that have never been used.
 > Approximately half of uses occurred in a free-living setting (52%) and/or by other authors (56%).
@@ -58,15 +55,15 @@ In the same issue of _Physiol Meas_ (_43_(09)), Kimberly Clevenger et al. publis
 <p>&nbsp;</p>
 
 
-#### RainDrop.io- Links to other socials I use often
+### RainDrop.io- Links to other socials I use often
 <iframe style="border: 1; width: 80%; height: 350px;" allowfullscreen frameborder="0" src="https://raindrop.io/gpetrucci/social-links-42350973/embed"></iframe>
 
 <p>&nbsp;</p>
 
 ---
 
-#####  This website was built with [Beauitful Jekyll](https://beautifuljekyll.com). Check it out and build your website in no time.
+######  This website was built with [Beauitful Jekyll](https://beautifuljekyll.com). Check it out and build your website in no time.
  * Thanks to [Dean Attali][dean] for making the template.   
 [dean]: https://github.com/daattali "GitHub"
-##### All of my code used to make this site is available in a GitHub repository:   
+###### All of my code used to make this site is available in a GitHub repository:   
   * [GitHub repository](https://github.com/gregpetruccijr/gregpetruccijr.github.io)
