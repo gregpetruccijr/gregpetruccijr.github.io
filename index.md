@@ -23,7 +23,6 @@ So yeah, I don't get alot of visitors here. But welcome to my personal (_work?_)
 ## I am Greg Petrucci! I come in peace!
 Other than being a Toy Story suoperfan, I'm a PhD. student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My advisor is [John R. Sirard, PhD.](https://blogs.umass.edu/pahl/about-us/bios/john-sirard/). I also work closely with [John Staudenmayer](https://www.umass.edu/mathematics-statistics/directory/faculty/john-staudenmayer). My research expertise is in the area of using accelerometers to estimate aspects of physical behaviors (e.g., physical activity, sedentary behavior and sleep). To that end, I've worked extensively on projects aimed at calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details).
 
-### Add a fun picture collage of all my fav UMass KIN people?
 Recently I've been keen on making accelerometer data processing methods (i.e., existing and new, simple cut-points and complex machine learning techniques, etc.) easily accessible for use in intervention and cohort studies.
 
 #### Why do the methods _have_ to be accessible?
