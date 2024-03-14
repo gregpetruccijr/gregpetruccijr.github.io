@@ -1,10 +1,11 @@
 
-# Add some old posters or stuff from MOCA 5-8 page and make the home dir look better
-# Add clean R scripts?
+# Repository for [GregPetrucci.com](https://gregpetrucci.com/)
 
+### Built with [Beauitful Jekyll](https://beautifuljekyll.com). Check it out and build your website in no time.
+ * Thanks to [Dean Attali][dean] for making this template.
+#### Other themes:   
+  * [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/)
+  * [Jekyll Themes](http://jekyllthemes.org/)
+  * [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) 
 
-
-__Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the latest features!__
-- **SEO and social media support**: Customize how your site looks on Google and when shared on social media.
-[Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
-
+[dean]: https://github.com/daattali "GitHub"
