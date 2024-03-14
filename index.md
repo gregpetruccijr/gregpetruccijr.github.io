@@ -10,7 +10,7 @@ I am a PhD. student at the University of Massachusetts in the [Department of Kin
 
 #### Site Contents
 1. You can download a _.pdf_ copy of [my CV](PetrucciJr_CV_11_30_23.pdf). If your web browser has a built-in _.pdf viewer_, use it to display my CV by clicking [here](cv.md).
-2. If you're alright with reading on this webpage, the [Publications page](pubs.md) has direct links to refereed publications I've worked on.
+2. If you're alright with reading on this webpage, the [Publications](pubs.md) page has direct links to refereed publications I've worked on.
   * _Coming soon_ :
     * Blog page?
 
