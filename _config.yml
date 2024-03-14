@@ -44,6 +44,15 @@ round-avatar: true
 # then specify the following parameter
 title-img: assets/img/Medium_PMS202_Black3_RGB.png
 
+#####################################
+# --- 3-13-24 Trying Advanced installation methods --- #
+  # --- From: https://beautifuljekyll.com/getstarted/#install-steps-hard --- #
+  # --- Reason: b/c I can't sync my fork of the current Beauitful Jekyll project. So, I don't have all features --- #
+    
+#####################################
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
+
 
 #####################################
 # --- Footer social media links --- #
