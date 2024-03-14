@@ -63,7 +63,8 @@ In the same issue of _Physiol Meas_ (_43_(09)), Kimberly Clevenger et al. publis
 ---
 
 ######  This website was built with [Beauitful Jekyll](https://beautifuljekyll.com). Check it out and build your website in no time.
- * Thanks to [Dean Attali][dean] for making the template.   
+ * Thanks to [Dean Attali][dean] for making the template.
+   
 [dean]: https://github.com/daattali "GitHub"
 ###### All of my code used to make this site is available in a GitHub repository:   
-  * [GitHub repository](https://github.com/gregpetruccijr/gregpetruccijr.github.io)
+   * [GitHub repository](https://github.com/gregpetruccijr/gregpetruccijr.github.io)
