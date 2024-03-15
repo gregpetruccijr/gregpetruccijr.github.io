@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Publications
+title: Publications and CV
 subtitle: 
 ---
 
-# Refereed Publications:
+### Refereed Publications:
 1. Remillard, N., Mulvey, M., **Petrucci Jr, G.J.** & Sirard, J.R. (2022). [Validation of Accelerometer-Based Estimations of Energy Expenditure During High-Intensity Interval Training](https://www.ajuronline.org/uploads/Volume_19_1/AJUR_Vol_19_Issue_1_June_2022p31.pdf). *American Journal of Undergraduate Research, 19*(1), 31-39.
 
 2. Potter, K., Marcotte, R.T., **Petrucci Jr, G.J.**, Rajala, C., Linder, D.E. & Balzer, L. (2021). [Examining the Contribution of Dog Walking to Total Daily Physical Activity Among Dogs and Their Owners](https://journals.humankinetics.com/view/journals/jmpb/4/2/article-p97.xml). *Journal for the Measurement of Physical Behaviour, 4*(1), 97-101.
@@ -15,13 +15,14 @@ subtitle:
 
 5. **Petrucci Jr, G.J.**, Masteller, B.R., Cox, M.F., Staudenmayer, J., Freedson, P.S. & Sirard, J.R. (2018). [Sensitivity of the Misfit Shine™ to Detect Changes in Laboratory-Based and Free-Living Physical Activity](https://journals.humankinetics.com/view/journals/jmpb/1/1/article-p18.xml). *Journal for the Measurement of Physical Behaviour, 1*(1), 18-25.
 
-# Book Chapters:
+### Book Chapters:
 1. Sirard, J.R. & **Petrucci Jr, G.J.** (2019). [Measurement of Physical Activity and Sedentary Behaviors](https://www.google.com/books/edition/Physical_Activity_and_Public_Health_Prac/u15uDwAAQBAJ?hl=en&gbpv=1&dq=greg%20petrucci&pg=PA21&printsec=frontcover). In: *Physical Activity and Public Health Practice: A Guide for Effective Interventions*. Springer Publishing Company, New York, NY.
 
-# Google Books Preview- Measurement of Physical Activity and Sedentary Behaviors
+##### Google Books Preview- Measurement of Physical Activity and Sedentary Behaviors
+
 <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=u15uDwAAQBAJ&newbks=0&lpg=PA21&dq=greg%20petrucci&pg=PA21&output=embed" width=500 height=500></iframe>
 
-# Conference Proceedings with Published Abstracts:
+#### Conference Proceedings with Published Abstracts:
 1. Chase, J.D., **Petrucci Jr, G.J.** & Sirard, J.R. (2024). Does sleep restriction impact subsequent day free-living physical behavior patterns among healthy young adults? *American College of Sports Medicine Annual Meeting*. Jun 2024. Boston, MA.
 
 2. **Petrucci Jr, G.J.**, Shook, R.P. & Sirard, J.R. (2023). Estimating energy expenditure in free-living adolescents: How many days are enough? *American College of Sports Medicine Annual Meeting*. Jun 2023. Denver, CO.
@@ -61,7 +62,7 @@ subtitle:
 19. **Petrucci Jr, G.J.**, Hickey, A., Mendoza, A. & Freedson, P.S. (2016). Validation of the cybex arctrainer\^{TM} for prediction of energy expenditure. *American College of Sports Medicine Annual Meeting*. Jun 2016. Boston, MA.
 
 
-# Other conference presentations & publications:
+### Other conference presentations & publications:
 
 1. Remillard, N.M., **Petrucci Jr, G.J.** & Sirard, J.R. (2019). Using accelerometers to estimate energy expenditure during high-intensity interval training. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Nov 2019. Providence, RI.
 
@@ -96,3 +97,16 @@ subtitle:
 16. **Petrucci Jr, G.J.**, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. & Sirard, J.R. (2017). Sensitivity of misfit shine to detect changes in physical activity. *UMass Medical mHealth and Social Media Conference*. May 2017. Worcester, MA.
 
 17. **Petrucci Jr, G.J.**, Hickey, A., Mendoza, A. & Freedson, P.S. (2016). Validation of the cybex arctrainer for prediction of energy expenditure. *New England Chapter of the American College of Sports Medicine Annual Fall Meeting*. Oct 2016. Providence, RI.
+
+
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+
+---
+
+
+### CV (.pdf)
+<object data="/PetrucciJr_CV_11_30_23.pdf" width="1000" height="1000" type='application/pdf'></object>
