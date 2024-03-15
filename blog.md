@@ -12,4 +12,4 @@ tags: ["blogging", "R Markdown"]
 
 Published on: 2024-03-15
 
-<object data="/assets/Queen_of_Hearts_Sim.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/Queen_of_Hearts_Sim.pdf" width="1000" height="1000" type='application/pdf'></object>
