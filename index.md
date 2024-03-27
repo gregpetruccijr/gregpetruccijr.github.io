@@ -1,54 +1,26 @@
----
-layout: home
-title: Greg Petrucci
-subtitle: PhD. student in Kinesiology
----
-> A stranger!
-> From the outside!
-> Oo-o-o-o-o-o...
+**Welcome!**
+- _My name is Greg Petrucci, and I am a researcher passionate about innovating human health with wearable technology_. I am currently a PhD student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology) working under the supervision of  [John R. Sirard, PhD.](https://blogs.umass.edu/pahl/about-us/bios/john-sirard/). I also work closely with [John Staudenmayer](https://www.umass.edu/mathematics-statistics/directory/faculty/john-staudenmayer). My research interests lie in using accelerometers to estimate aspects of physical behaviors (e.g., physical activity, sedentary behavior and sleep).
 
-<iframe width="460" height="330" src="https://www.youtube-nocookie.com/embed/atUUjSLMSiM?si=qPJYWE2ENlFnO8ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Research**
+ - I've worked extensively on projects aimed at calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details).
+ 
+- _Recently I've been keen on making accelerometer data processing methods (i.e., existing and new, simple cut-points and complex machine learning techniques) easily accessible for use in intervention and cohort studies._ I plan to build on the work of [Clevenger et al.,][1] and [Pffeiffer et al.,][2] where my specific goals are to: 
+	1) ecologically identify and 
+	2) provide (end)user-friendly access to
 
-# Greetings! 
-So yeah, I don't get alot of visitors here. But welcome to my personal (_work?_) website. 
-
-###  Add a clean table of contents? But for now...
-1. You can download a _.pdf_ copy of [my CV](PetrucciJr_CV_11_30_23.pdf).
-2. The [Publications page](pubs.md) has direct links to refereed publications.
-  * _Coming soon_ :
-     * Blog (_in progress_) 
-     * Code for methods?
-     * Teaching stuff?
-     * Other fun stuff?
-
-## I am Greg Petrucci! I come in peace!
-Other than being a Toy Story superfan, I'm a PhD. student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My advisor is [John R. Sirard, PhD.](https://blogs.umass.edu/pahl/about-us/bios/john-sirard/). I also work closely with [John Staudenmayer](https://www.umass.edu/mathematics-statistics/directory/faculty/john-staudenmayer). My research expertise is in the area of using accelerometers to estimate aspects of physical behaviors (e.g., physical activity, sedentary behavior and sleep). To that end, I've worked extensively on projects aimed at calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details).
-
-Recently I've been keen on making accelerometer data processing methods (i.e., existing and new, simple cut-points and complex machine learning techniques, etc.) easily accessible for use in intervention and cohort studies.
-
-#### Why do the methods _have_ to be accessible?
-Why can't someone (e.g., intervention scientist, epidemiologist, fill in the blank with your favorite field, my mother, etc.) just find the orignal paper where _some reseachers_ came up with _some method_ to process the data, and follow that reciepe? 
-
-##### Short answer: 
-It would take forever.
-##### Picture answer: 
-<img src="https://live.staticflickr.com/2798/4457365506_9def8ecacf_k.jpg" width="460" height="330" />
-
-##### Science answer:
-In 2022 [Pffeiffer et al][1]., published a scoping review in _Physiol Meas, 43_(09) summarizing the (in)accessibility of novel acceleormeter data processing methods to estimate physical activity or energy expenditure. Here are the results they report in their abstract:
-
-> Main Results:
-> Studies (N = 168) included adults (n = 143), and/or children (n = 38).
-> Model use ranged from 0 to 27 uses/year (average 0.83) with 101 models that have never been used.
-> Approximately half of uses occurred in a free-living setting (52%) and/or by other authors (56%).
-> Over half of included articles (n = 107) did not provide complete access to their model.
-> Sixty-one articles provided access to their method by including equations, coefficients, cut-points, or decision trees in the paper (n = 48) and/or by providing access to code (n = 13).  
-
-#### What's being done to fix this problem?
-In the same issue of _Physiol Meas_ (_43_(09)), Kimberly Clevenger et al. published a [note][2] that includes a very helpful [Accelerometer Repository](https://sites.google.com/view/accelerometerrepository/home?authuser=0), framework and method reporting guidelines  for estimating physical activity or energy expenditure from accelerometer data. This should (_hopefully_) make it easier to find and use the good methods we have worked hard to devlop.  
+accelerometer data processing methods that are accurate, reliable, and sensitive to detect changes in physical behaviors that are known to be associated with human health.  
 
 [1]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89ca   
 [2]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89c9
+
+**Publications, Conference Abstracts and Presentations**
+- The [Publications page](pubs.md)  lists my refereed publications (links included), conference abstracts, presentations and more. At the bottom of that page a _.pdf_ copy of [my CV](PetrucciJr_CV_11_30_23.pdf) is available for download.
+
+**Teaching**
+- Teaching is equally important and exciting to me as working in the lab is. Connecting with undergraduate students is so much fun.  [My CV](PetrucciJr_CV_11_30_23.pdf) lists all my teaching experiences (e.g., laboratory teaching assistantships and instructor of record).
+
+**Get in Touch**
+- I am always interested in new collaborations, expanding my research network and general chatter. Feel free to reach out to me via email at [gp@gregpetrucci.com].
 
 <p>&nbsp;</p>
 
