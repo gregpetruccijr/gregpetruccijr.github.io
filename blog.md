@@ -9,7 +9,7 @@ image:
 tags: ["blogging", "R Markdown"]
 ---
 # My First Blog Post- Throwback to the Queen of Hearts Simulation
+Please excuse our appearance. This page is a _work in progress._
 
 Published on: 2024-03-15
-
-<object data="/Queen_of_Hearts_Sim.pdf" width="1000" height="1000" type='application/pdf'></object>
+![](/assets/js/viewerjs-0.5.8/ViewerJS/Queen_of_Hearts_Sim.pdf)
