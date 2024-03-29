@@ -109,4 +109,4 @@ subtitle:
 
 
 ### CV (.pdf)
-<a href="/ViewerJS/#../assets/pdfs/PetrucciJr_CV_03_28_24.pdf">
+<a href="/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf">
