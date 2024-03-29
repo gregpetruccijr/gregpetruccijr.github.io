@@ -109,4 +109,4 @@ subtitle:
 
 
 ### CV (.pdf)
-<object data="/PetrucciJr_CV_11_30_23.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/PetrucciJr_CV_03_28_24.pdf" width="1000" height="1000" type='application/pdf'></object>
