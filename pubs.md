@@ -109,4 +109,4 @@ subtitle:
 
 
 ### CV (.pdf)
-<embed src="/PetrucciJr_CV_03_28_24.pdf" width="1000px" height="2100px" />
+<a href="/ViewerJS/#../assets/pdfs/PetrucciJr_CV_03_28_24.pdf">
