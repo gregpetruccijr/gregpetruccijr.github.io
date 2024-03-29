@@ -8,7 +8,7 @@ The purpose of the Movement Observation in Children and Adolescents Study (MOCA)
 
 # Brief description of the MOCA DO system from Cox et al. (JMPB, 2020)
 
-![](coxdo.png)
+![](assets/img/coxdo.png)
 
 The direct observation (DO) system was developed and implemented using the ObserverXT (OXT) (Noldus Information Technology, Inc., Wageningen, Netherlands) computer software to code video observations. Prior to any data collection, the DO system was developed using the previously mentioned adult DO systems as a template (Lyden, Petruski, et al., 2014). The first author (expert coder) took the lead on developing the DO system, with regular input provided by the research team.
 
@@ -26,7 +26,7 @@ The activity type variable serves as a contextual descriptor to the observed beh
 
 To ensure reliability and consistency across coded observations, each video file was extensively inspected (Figure 1). Coded observations were initially visually inspected for errors by a trained coder who was different from the original coder. If there were no errors identified in the coded observations, the observation data were exported from the Noldus Observer software. Otherwise, the coder identified and recorded details on the errors associated with the coded observations. Then, a third expert coder inspected the video, added comments if additional errors were found, and verified whether errors identified in the first visual inspection were valid or not. Finally, an expert coder examined the errors recorded from both rounds of visual inspection to amend the coded observations prior to exporting the data. 
 
-![](marcottedo.png)
+![](assets/img/marcottedo.png)
 
 After data were exported, all coded combinations of behavior, activity type, and MET value were visually inspected by three trained research assistants (RM, MC, GP). Coded combinations were examined for incompatible whole-body movement and activity-type pairs (e.g. sitting while standing), coded MET values that didn’t match the compendium MET values for either the behavior or activity type, or coded MET values did not follow the MOCA coding scheme rules (i.e. coded MET value will be associated with the behavior unless the activity type better represents the intensity level). Of the 9,677.2 total observation minutes, 283.9 minutes (2.9%) contained coded MET value abnormalities which were corrected to the proper MET values. There were 4.9 minutes (0.05%) that contained incompatible behavior and activity type combination errors which were excluded from the analyses. 
 
