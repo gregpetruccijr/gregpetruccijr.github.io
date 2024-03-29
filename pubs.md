@@ -109,4 +109,4 @@ subtitle:
 
 
 ### CV (.pdf)
-<a href="http://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf">
+[Click here to download and view a .pdf of my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf)
