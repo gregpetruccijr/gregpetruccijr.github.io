@@ -14,7 +14,7 @@ accelerometer data processing methods that are accurate, reliable, and sensitive
 [2]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89c9
 
 **Publications, Conference Abstracts and Presentations**
-- The [Publications page](pubs.md)  lists my refereed publications (links included), conference abstracts, presentations and more. At the bottom of that page a _.pdf_ copy of [my CV](/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf) is available for download.
+- The [Publications page](pubs.md)  lists my refereed publications (links included), conference abstracts, presentations and more. At the bottom of that page (and here) you can download and view a _.pdf_ of [my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf).
 
 **Teaching**
 - Teaching is equally important and exciting to me as working in the lab is. Connecting with undergraduate students is so much fun.  [My CV](PetrucciJr_CV_11_30_23.pdf) lists all my teaching experiences (e.g., laboratory teaching assistantships and instructor of record).
