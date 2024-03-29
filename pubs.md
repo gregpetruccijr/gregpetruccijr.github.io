@@ -110,3 +110,4 @@ subtitle:
 
 ### CV (.pdf)
 <object data="/PetrucciJr_CV_03_28_24.pdf" width="1000" height="1000" type='application/pdf'></object>
+[embed]https://github.com/gregpetruccijr/gregpetruccijr.github.io/blob/master/PetrucciJr_CV_03_28_24.pdf[/embed]
