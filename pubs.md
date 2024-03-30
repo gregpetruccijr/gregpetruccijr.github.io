@@ -110,3 +110,17 @@ subtitle:
 
 ### CV (.pdf)
 [Click here to download and view a .pdf of my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf)
+
+
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+
+---
+
+
+### LinkedIn
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="greg-j-petrucci-jr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/greg-j-petrucci-jr?trk=profile-badge">Greg J Petrucci Jr.</a></div>
+              
