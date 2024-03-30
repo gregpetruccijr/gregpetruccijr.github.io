@@ -10,8 +10,8 @@
 
 accelerometer data processing methods that are accurate, reliable, and sensitive to detect changes in physical behaviors that are known to be associated with human health.  
 
-[1]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89ca   
-[2]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89c9
+[1]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89c9
+[2]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89ca   
 
 **Publications, Conference Abstracts and Presentations**
 - The [Publications page](pubs.md)  lists my refereed publications (links included), conference abstracts, presentations and more. At the bottom of that page (and here) you can download and view a _.pdf_ of [my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf).
