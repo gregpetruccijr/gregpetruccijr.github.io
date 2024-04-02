@@ -25,8 +25,13 @@ accelerometer data processing methods that are accurate, reliable, and sensitive
 <p>&nbsp;</p>
 
 ---
+### Sponsoring My Research
+<iframe src="https://github.com/sponsors/gregpetruccijr/card" title="Sponsor gregpetruccijr" height="225" width="600" style="border: 0;"></iframe>
 
-### RainDrop.io- Links to other socials I use often
+<p>&nbsp;</p>
+
+---
+### RainDrop.io- Links to my socials 
 <iframe style="border: 1; width: 80%; height: 350px;" allowfullscreen frameborder="0" src="https://raindrop.io/gpetrucci/social-links-42350973/embed"></iframe>
 
 <p>&nbsp;</p>
@@ -34,6 +39,8 @@ accelerometer data processing methods that are accurate, reliable, and sensitive
 
 <p>&nbsp;</p>
 
+
+<p>&nbsp;</p>
 
 ---
 ######  This website was built with [Beauitful Jekyll](https://beautifuljekyll.com). Check it out and build your website in no time.
