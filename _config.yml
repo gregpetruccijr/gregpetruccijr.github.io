@@ -24,7 +24,9 @@ navbar-links:
   Publications and full CV: "pubs"
   Blog: "blog"
   MOCA: "moca"
+  Support: "support"
   Links:
+    - Accelerometer Repository: "https://sites.google.com/view/accelerometerrepository/home?authuser=0"
     - Compendium of Physical Activities: "https://sites.google.com/site/compendiumofphysicalactivities/home"
     - The Observer XT: "https://www.noldus.com/observer-xt"
     - ISMPB: "https://ismpb.org/"
