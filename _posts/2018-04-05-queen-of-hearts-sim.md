@@ -135,9 +135,8 @@ weekly_drawing_for_names_and_queen <- function(week_1_names){
 }#end function  
 ```
 
-```{r. Do simulation studies}
+```{r, Do simulation studies}
 number_of_simualtions <- 1000
-
 simulation_resuslts <- data.frame(simualtion=(1:(number_of_simualtions)), 
                                   week_queen_selected=rep(NA, times=number_of_simualtions),
                                   did_dad_name_picked=rep(NA, times=number_of_simualtions),
@@ -155,8 +154,6 @@ for(i in 1:number_of_simualtions){
 
 hist(simulation_resuslts$week_queen_selected, breaks=c(53))
 unique(simulation_resuslts$did_dad_win)
-
-#simulation_resuslts$p_value_win <- ()/(number_of_simualtions)
 ```
 
 ![](assets/img/QoHResultsFig.png)
