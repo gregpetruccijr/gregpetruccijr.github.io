@@ -166,26 +166,3 @@ Questions:
 1.) If you do 1000000 simulations, how many times does Dad win? 
 2.) On average, what week is the queen selected (95% CI)?
 
-```{r, Not sure what I was trying to do here...}
-# INF <- 100000
-# two_pull_results <- matrix(NA, nrow=INF, ncol=3)
-# colnames(two_pull_results) <- c("First_Pull", "Second_Pull", "Sum")
-# 
-# for (i in 1:INF){
-#   two_pull_results[i,1] <- weekly_drawing_for_names_and_queen(week_1_names) [1]
-#   two_pull_results[i,2] <- weekly_drawing_for_names_and_queen(week_1_names) [2]
-#   two_pull_results[i,3] <-  two_pull_results[i,1] + two_pull_results[i,2]
-# }
-```
-
-
-```{r, make the figure?}
-# two_pull_results <- as.data.frame(two_pull_results)
-# ggplot(two_pull_results, aes(First_Pull, Second_Pull)) + 
-#   geom_jitter() + 
-#   labs(title="Probability of Winning on Both Draws Based on 100000 Simulations" , x="Your Name Was Drawn", y ="You Picked the Card Number for the Queen of Hearts" ) +
-#   scale_x_discrete(limits=c(0,1), labels=c("TRUE", "False")) +
-#     scale_y_discrete(limits=c(0,1), labels=c("TRUE", "False")) 
-```
-
- 
