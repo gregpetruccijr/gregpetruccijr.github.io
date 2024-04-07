@@ -59,7 +59,7 @@ subtitle:
 
 18. Cox, M.F., Slate-Romano, J., Vercollone, H., Jacobson, D., **Petrucci Jr, G.J.**, Masteller, B.R. & Sirard, J.R. (2017). Testing a novel direct observation method for children's free play activity *American College of Sports Medicine Annual Meeting*. Jun 2017. Denver, CO.
 
-19. **Petrucci Jr, G.J.**, Hickey, A., Mendoza, A. & Freedson, P.S. (2016). Validation of the cybex arctrainer\^{TM} for prediction of energy expenditure. *American College of Sports Medicine Annual Meeting*. Jun 2016. Boston, MA.
+19. **Petrucci Jr, G.J.**, Hickey, A., Mendoza, A. & Freedson, P.S. (2016). Validation of the cybex arctrainer for prediction of energy expenditure. *American College of Sports Medicine Annual Meeting*. Jun 2016. Boston, MA.
 
 
 ### Other conference presentations & publications:
@@ -106,21 +106,12 @@ subtitle:
 
 
 ---
-
-
 ### CV (.pdf)
-[Click here to download and view a .pdf of my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf)
+[Click here to download and view a _.pdf_ of my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf)
 
 
 <p>&nbsp;</p>
-
-
-<p>&nbsp;</p>
-
-
 ---
-
-
 ### LinkedIn
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="greg-j-petrucci-jr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/greg-j-petrucci-jr?trk=profile-badge">Greg J Petrucci Jr.</a></div>
               
