@@ -161,7 +161,6 @@ unique(simulation_resuslts$did_dad_win)
 
 ![](assets/img/QoHResultsFig.png)
 
-
 This showed that the queen of hearts was selected on week 38, but Dad did not win, someone else did
 Questions:
 1.) If you do 1000000 simulations, how many times does Dad win? 
