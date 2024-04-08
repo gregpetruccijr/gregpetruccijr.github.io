@@ -42,7 +42,7 @@ _Rap Registration: Friday, May 31 - Sunday, June 30._
   - After registering for a RAP, you can:
   - Choose to share your contact information with other students in the RAP, drop the RAP, or join another RAP until the end of your Advising and Course Registration Appointment
     
-![ ](assets/img/Fall24-RAP-Timeline.png)
+![](assets/img/Fall24-RAP-Timeline.png)
  
 Read more [here](https://www.umass.edu/studentsuccess/RAP/joinarap)
 
@@ -61,7 +61,7 @@ Nope! We will meet twice per week; course meetings consist of lecture and discus
   - Class number: 31325
   - Instructor: Greg Petrucci
     
-![ ](assets/img/F24-RAP-spire-listing.png)
+![](assets/img/F24-RAP-spire-listing.png)
 
 ### Where can I learn more about the instructor? 
   - [Rate my professors](https://www.ratemyprofessors.com/professor/2999129)
@@ -72,7 +72,7 @@ Nope! We will meet twice per week; course meetings consist of lecture and discus
   - Email UMass Student Success: successap@umass.edu
   - Email Greg: gpetrucci@umass.edu
     
-![ ](assets/img/course-flyer.png)
+![](assets/img/course-flyer.png)
 
-![ ](assets/img/qr-code.png)
+![](assets/img/qr-code.png)
 
