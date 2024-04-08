@@ -2,9 +2,9 @@
 layout: post
 title: Greg Petrucci is Teaching A KIN 100 RAP in Fall 2024
 subtitle: Health Sciences RAP in Kennedy Hall
-cover-img: 
-thumbnail-img: assets/img/
-share-img: assets/img/
+cover-img: assets/img/course-flyer.png
+thumbnail-img: assets/img/course-flyer.png
+share-img: assets/img/qr-code.png
 gh-repo: gregpetruccijr/gregpetruccijr.github.io
 gh-badge: [star, fork, follow]
 tags: [Teaching, UMass]
@@ -41,8 +41,9 @@ _Rap Registration: Friday, May 31 - Sunday, June 30._
   - First-year & transfer students can register for remaining spaces on a first-come, first-served basis. Students cannot make changes to their RAP registration after they’ve met with their academic advisor.
   - After registering for a RAP, you can:
   - Choose to share your contact information with other students in the RAP, drop the RAP, or join another RAP until the end of your Advising and Course Registration Appointment
+![](assets/img/Fall24-RAP-Timeline.png)
  
-Read more here: https://www.umass.edu/studentsuccess/RAP/joinarap
+Read more [here](https://www.umass.edu/studentsuccess/RAP/joinarap)
 
 ### When and where does the course meet?
   - Days and Times: TuTh 10:00AM - 11:15AM
@@ -58,13 +59,16 @@ Nope! We will meet twice per week; course meetings consist of lecture and discus
 ### How do I find the course on Spire?
   - Class number: 31325
   - Instructor: Greg Petrucci
+![](assets/img/F24-RAP-spire-listing.png)
 
 ### Where can I learn more about the instructor? 
   - [Rate my professors](https://www.ratemyprofessors.com/professor/2999129)
   - [Personal webpage](https://gregpetrucci.com/)
 
 ### I have more questions, where can I ask them?
-  - RAP FAQ: https://www.umass.edu/studentsuccess/RAP/faq
+  - [RAP FAQ](https://www.umass.edu/studentsuccess/RAP/faq)
   - Email UMass Student Success: successap@umass.edu
   - Email Greg: gpetrucci@umass.edu
+![](assets/img/course-flyer.png)
+![](assets/img/qr-code.png)
 
