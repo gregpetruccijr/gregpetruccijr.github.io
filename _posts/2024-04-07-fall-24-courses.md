@@ -13,17 +13,17 @@ author: GP
 ---
 ### What is a RAP?
 Residential Academic Programs, or RAPs, are small communities of new first-year and transfer students who live in the same residence hall and enroll in the same small course together. 
-You can read more about RAPs here: https://www.umass.edu/studentsuccess/RAP/about
+You can read more about RAPs [here](https://www.umass.edu/studentsuccess/RAP/about)
 ### Are there prerequisites?
 You need not enroll in any prerequisite courses to enroll in this introductory course, which assumes no background knowledge in kinesiology. 
 However, you must be a first-year student in the Health Sciences RAP in Kennedy Hall. 
-All Fall 2024 RAPs are listed here: https://www.umass.edu/studentsuccess/RAP/RAPs 
-This class is listed under Southwest Residential Area -> Kennedy Hall -> Health Sciences RAP:
+All Fall 2024 RAPs are listed [here](https://www.umass.edu/studentsuccess/RAP/RAPs).
+This class is listed under Southwest Residential Area -> Kennedy Hall -> Health Sciences RAP
   - Required course: Kinesiology 100: Intro to Kinesiology
   - Course type: 4-credit Gen Ed (BS)
   -Eligible students: first-year students
 This course meets the requirements of biological science (BS) general education (Gen.Ed.). 
-More details on Gen.Ed. requirements: https://www.umass.edu/gened/students/fulfilling-requirements
+More details on [Gen.Ed. requirements](https://www.umass.edu/gened/students/fulfilling-requirements).
 ### What will this course cover?
 An interdisciplinary approach to the science of human movement. Topics include motor control, exercise physiology, biomechanics, sports medicine, exercise neuroscience, and exercise psychology.
 Subject to change based on students’ interests in topics listed. We will have fun, I promise! :)
@@ -60,8 +60,8 @@ Nope! We will meet twice per week; course meetings consist of lecture and discus
   - Instructor: Greg Petrucci
 
 ### Where can I learn more about the instructor? 
-  - Rate my professors: https://www.ratemyprofessors.com/professor/2999129
-  - Personal webpage: https://gregpetrucci.com/
+  - [Rate my professors](https://www.ratemyprofessors.com/professor/2999129)
+  - [Personal webpage](https://gregpetrucci.com/)
 
 ### I have more questions, where can I ask them?
   - RAP FAQ: https://www.umass.edu/studentsuccess/RAP/faq
