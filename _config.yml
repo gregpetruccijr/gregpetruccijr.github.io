@@ -24,6 +24,7 @@ navbar-links:
   Pubs & CV: "pubs"
   Blog: "blog"
   MOCA: "moca"
+  Book a meeting: "https://fantastical.app/gpetrucci/booking-assistant"
   Support Me: "support"
   Links:
     - Accelerometer Repository: "https://sites.google.com/view/accelerometerrepository/home?authuser=0"
