@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support Me
+title: Supporting My Research
 subtitle: 
 ---
 <p>&nbsp;</p>
