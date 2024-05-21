@@ -10,7 +10,7 @@
 [2]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89ca   
 
 **Publications, Conference Abstracts, and Presentations📚**
-- [📚](pubs.md) (publications page) lists my refereed publications (links included), conference abstracts, presentations, and more. Including a _.pdf_ of my (somewhat up-to-date?) [CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf).
+- [📚](pubs.md) (publications page) lists my refereed publications, conference abstracts, presentations, and more. Including a _.pdf_ of my somewhat up-to-date? [CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf).
 
 **Teaching**
 - Teaching is equally important and exciting to me as working in the lab. Connecting with undergraduate students is so much fun.  [My CV](PetrucciJr_CV_03_28_24.pdf) lists all my teaching experiences (e.g., laboratory teaching assistantships and instructor of record).
@@ -19,7 +19,7 @@
 **Get in Touch**
 - Head over to [📔](https://gregpetrucci.com/blog/) (blog page) to see what I've been up to.
 - Contact me via [email](mailto:gp@gregpetrucci.com).
-- Book a meeting. My personal booking assistant can take care of all the details! Access him anywhere there's a calendar emoji[🗓️](https://fantastical.app/gpetrucci/booking-assistant).
+- Book a meeting, my personal booking assistant can handle all the details! Access him anywhere there's a [🗓️](https://fantastical.app/gpetrucci/booking-assistant).
 
 <p>&nbsp;</p>
 
@@ -27,18 +27,17 @@
 ### Supporting My Research💸
 <iframe src="https://github.com/sponsors/gregpetruccijr/card" title="Sponsor gregpetruccijr" height="225" width="600" style="border: 0;"></iframe>
 If supporting my work through GitHub sponsorship (above) isn't your style, check out [💸](https://gregpetrucci.com/support/) (support page).
----
 
+---
 ### RainDrop.io- Links to my socials 
 <iframe style="border: 1; width: 80%; height: 350px;" allowfullscreen frameborder="0" src="https://raindrop.io/gpetrucci/social-links-42350973/embed"></iframe>
----
 
+---
 ### Other Helpful Links
  - [Kim Clevenger](https://clevengerkimberly.github.io/)'s [Accelerometer Repository](https://sites.google.com/view/accelerometerrepository/home?authuser=0)
  - [Compendium of Physical Activities](https://pacompendium.com/)
  - [International Society for the Measurement of Physical Behaviours](https://ismpb.org/)
 
----
 
 <p>&nbsp;</p>
 
