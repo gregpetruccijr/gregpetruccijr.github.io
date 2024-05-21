@@ -10,22 +10,22 @@
 [2]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89ca   
 
 **Publications, Conference Abstracts, and Presentations**
-- The [publications page](pubs.md)  lists my refereed publications (links included), conference abstracts, presentations, and more. At the bottom of that page (and here) you can download and view a _.pdf_ of [my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf).
+- The publications page[📚](pubs.md)  lists my refereed publications (links included), conference abstracts, presentations, and more. At the bottom of that page (and here), you can download and view a _.pdf_ of [my CV](https://gregpetrucci.com/assets/js/viewerjs-0.5.8/ViewerJS/PetrucciJr_CV_03_28_24.pdf).
 
 **Teaching**
 - Teaching is equally important and exciting to me as working in the lab is. Connecting with undergraduate students is so much fun.  [My CV](PetrucciJr_CV_11_30_23.pdf) lists all my teaching experiences (e.g., laboratory teaching assistantships and instructor of record).
-- Be on the lookout for a [blog post](https://gregpetrucci.com/blog/) announcing my Summer 2024, Fall 2024, and Spring 2025 teaching schedule.
+- Be on the lookout for a blog post[📔](https://gregpetrucci.com/2024-04-07-fall-24-courses/) announcing my Summer 2024, Fall 2024, and Spring 2025 teaching schedule.
 
 **Get in Touch**
 - I am always interested in new collaborations, expanding my research network, and general chatter.
-- Head over to the [blog page](https://gregpetrucci.com/blog/) to see what I've been up to recently (and back in the day).
+- Head over to the blog page[📔](https://gregpetrucci.com/blog/) to see what I've been up to recently (and back in the day).
 - Feel free to contact me via email at [gp@gregpetrucci.com].
-- You can also [book a meeting with me](https://fantastical.app/gpetrucci/booking-assistant) by clicking the link here or using the navigation bar (above).
+- You can book a meeting with me by clicking the calendar emoji[🗓️](https://fantastical.app/gpetrucci/booking-assistant) in the navigation bar (above).
 
 <p>&nbsp;</p>
 
 ---
-### Sponsoring My Research
+### Sponsoring My Research💸
 <iframe src="https://github.com/sponsors/gregpetruccijr/card" title="Sponsor gregpetruccijr" height="225" width="600" style="border: 0;"></iframe>
 ---
 
