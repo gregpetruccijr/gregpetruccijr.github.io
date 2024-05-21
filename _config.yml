@@ -21,11 +21,10 @@ author: Greg J Petrucci Jr.
 
 navbar-links:
   🏠: "https://gregpetrucci.com"
-  Pubs & CV: "pubs"
-  Blog: "blog"
-  MOCA: "moca"
-  Meeting?: "https://fantastical.app/gpetrucci/booking-assistant"
-  Support Me: "support"
+  📚: "pubs"
+  📔: "blog"
+  🗓️: "https://fantastical.app/gpetrucci/booking-assistant"
+  💸: "support"
   
 ################
 # --- Logo --- #
