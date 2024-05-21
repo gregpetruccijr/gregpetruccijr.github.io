@@ -28,14 +28,16 @@
 ### Sponsoring My Research
 <iframe src="https://github.com/sponsors/gregpetruccijr/card" title="Sponsor gregpetruccijr" height="225" width="600" style="border: 0;"></iframe>
 ---
+
 ### RainDrop.io- Links to my socials 
 <iframe style="border: 1; width: 80%; height: 350px;" allowfullscreen frameborder="0" src="https://raindrop.io/gpetrucci/social-links-42350973/embed"></iframe>
 ---
-### Other Helpful Links
- - [Accelerometer Repository:](https://sites.google.com/view/accelerometerrepository/home?authuser=0)
- - [Compendium of Physical Activities:](https://pacompendium.com/)
- - [International Society for the Measurement of Physical Behaviours:](https://ismpb.org/)
 
+### Other Helpful Links
+ - [Kim Clevenger](https://clevengerkimberly.github.io/)'s [Accelerometer Repository](https://sites.google.com/view/accelerometerrepository/home?authuser=0)
+ - [Compendium of Physical Activities](https://pacompendium.com/)
+ - [International Society for the Measurement of Physical Behaviours](https://ismpb.org/)
+---
 
 <p>&nbsp;</p>
 
