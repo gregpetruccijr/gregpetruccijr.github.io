@@ -20,7 +20,7 @@
 - I am always interested in new collaborations, expanding my research network, and general chatter.
 - Head over to the [blog page](https://gregpetrucci.com/blog/) to see what I've been up to recently (and back in the day).
 - Feel free to contact me via email at [gp@gregpetrucci.com].
-- You can also book a meeting with me using the link listed in the webpage banner (above).
+- You can also [book a meeting with me](https://fantastical.app/gpetrucci/booking-assistant) by clicking the link here or using the navigation bar (above).
 
 <p>&nbsp;</p>
 
