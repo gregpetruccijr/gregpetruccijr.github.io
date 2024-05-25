@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Enjoy Some Pretty Pictures
 subtitle: Photo Album
 cover-img: assets/img/UMass_Downloadables_Zoom-3_drama_geese.jpg
@@ -11,6 +11,8 @@ tags: [Images, UMass]
 comments: true
 author: GP
 ---
+
+:)
 
 ![](assets/img/UMass_Downloadables_Zoom-3_drama_geese.jpg)
 
