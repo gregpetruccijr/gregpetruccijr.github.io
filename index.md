@@ -19,7 +19,7 @@
 **Get in Touch**
 - Head over to [📔](https://gregpetrucci.com/blog/) (blog page) to see what I've been up to.
 - Contact me via [email](mailto:gp@gregpetrucci.com).
-- Book a meeting, my personal booking assistant can handle all the details! Access him anywhere there's a [🗓️](https://fantastical.app/gpetrucci/booking-assistant).
+- Book a meeting, my administrative assistant can handle all the details! Access him anywhere there's a [🗓️](https://fantastical.app/gpetrucci/admin-asst).
 
 <p>&nbsp;</p>
 
