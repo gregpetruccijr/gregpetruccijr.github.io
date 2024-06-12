@@ -20,8 +20,9 @@ I use all of the brands/products listed in my research program. Depending on the
 3. [Secretlab](https://secretlabus.refr.cc/gregpetrucci)
   - When you spend  hours a day seated in the same position, no matter how optimal, stress builds up in your body. Movement is crucial to relieving this strain. TITAN Evo is designed to promote natural posture changes and movement.
   - “The best posture is your next posture.” Professor Stuart M. McGill, Ph.D. (Kinesiology (Biomechanics)), Distinguished Professor Emeritus, University of Waterloo.
-5. [Duracell Portable Power Stations](https://powerstations.duracell.com/products/m250)
-   - Power phones, tablets, laptops—any of the small devices you need—for work and life. Avoid being tethered to the wall now that you have portable power for your work and leisure activities.   
 
-
+## Another Support Avenue 
+Check out my designs on Redbubble!
+<script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
+<script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'gpetrucci', 2, 2).renderIframe();</script>
 
