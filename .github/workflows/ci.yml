@@ -1,5 +1,4 @@
 name: Build Jekyll
-    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
