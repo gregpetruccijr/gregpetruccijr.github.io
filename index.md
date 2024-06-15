@@ -3,7 +3,7 @@
 
 **Research**
  - I've worked extensively on projects aimed at calibration and validation of accelerometer data processing methods (see [MOCA](https://gregpetrucci.com/moca/) for more details).
- 
+
 - _Recently I've been keen on making accelerometer data processing methods (i.e., existing and new, simple cut-points and complex machine learning techniques) easily accessible for use in intervention and cohort studies._ I plan to build on the work of [Clevenger et al.,][1] and [Pffeiffer et al.,][2] where my specific goals are to 1) ecologically identify and 2) provide (end)user-friendly access to accelerometer data processing methods that are accurate, reliable, and sensitive to detect changes in physical behaviors that are known to be associated with human health.  
 
 [1]: https://iopscience.iop.org/article/10.1088/1361-6579/ac89c9
@@ -28,8 +28,8 @@
 If supporting my work through GitHub sponsorship (above) isn't your style, check out [💸](https://gregpetrucci.com/support/) (support page).
 
 ---
-### RainDrop.io- Links to my socials 
-<iframe style="border: 1; width: 80%; height: 350px;" allowfullscreen frameborder="0" src="https://raindrop.io/gpetrucci/social-links-42350973/embed"></iframe>
+### RainDrop.io- Links to my socials
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/gregpetrucci_dotcom/socials-42350973/embed"></iframe>
 
 ---
 ### Other Helpful Links
@@ -49,7 +49,7 @@ If supporting my work through GitHub sponsorship (above) isn't your style, check
 ---
 ######  This website was built with [Beauitful Jekyll](https://beautifuljekyll.com). Check it out and build your website in no time.
  * Thanks to [Dean Attali][dean] for making the template.
-   
+
 [dean]: https://github.com/daattali "GitHub"
 ###### All of my code used to make this site is available in a GitHub repository:   
    * [GitHub repository](https://github.com/gregpetruccijr/gregpetruccijr.github.io)
