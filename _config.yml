@@ -114,8 +114,8 @@ edit_page_button: false
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
 
-# The keywords to associate with your website, for SEO purposes
-keywords: "Greg J Petrucci Jr.,Greg Petrucci Jr.,Greg J Petrucci,Greg Petrucci,UMass,University of Massachusetts,University of Massachusetts Amherst,Amherst,Massachusetts,accelerometer,measurement,physical activity,physical behaviors,ActiGraph accelerometer,ActiGraph,Kinesiology,Department of Kinesiology, R, Rstudio, Statistics"
+# The keywords to associate with your website, for SEO purpose 
+keywords: "Greg J Petrucci Jr., Greg Petrucci Jr., Greg J Petrucci, Greg Petrucci,UMass, University of Massachusetts, University of Massachusetts Amherst, Amherst, Massachusetts, accelerometer, measurement, physical activity, physical behaviors, ActiGraph accelerometer, ActiGraph, Kinesiology, Department of Kinesiology, R, Rstudio, Statistics, Norwood, 02062, 01003"
 
 ######################################
 # --- Colours / background image --- #
