@@ -1,4 +1,9 @@
-name: Build Jekyll
+name: Beautiful Jekyll CI
+on: [push, pull_request]
+jobs:
+  build:
+    name: Build Jekyll
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
