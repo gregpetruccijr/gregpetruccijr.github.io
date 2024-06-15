@@ -22,7 +22,5 @@ I use all of the brands/products listed in my research program. Depending on the
   - “The best posture is your next posture.” Professor Stuart M. McGill, Ph.D. (Kinesiology (Biomechanics)), Distinguished Professor Emeritus, University of Waterloo.
 
 ## Another Support Avenue 
-Check out my designs on Redbubble!
 <script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
 <script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'gpetrucci', 2, 2).renderIframe();</script>
-
